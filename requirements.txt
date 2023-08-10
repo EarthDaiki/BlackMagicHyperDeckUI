@@ -1,0 +1,3 @@
+pyperdeck==0.0.1
+streamlit
+telnetlib3==2.0.4
